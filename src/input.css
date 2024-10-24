@@ -6,4 +6,8 @@
 /* Your Awesome Styles */
 * {
     outline: 1px dotted gray;
+ } 
+  
+body{
+    background: thistle;
 }
