@@ -16,13 +16,13 @@ const allTheMonths = [
     "December"
   ];
   const allTheDays = [
-    "Sunday",
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday"
+    "Sun",
+    "Mon",
+    "Tues",
+    "Wed",
+    "Thur",
+    "Fri",
+    "Sat"
   ];
   
   /************
